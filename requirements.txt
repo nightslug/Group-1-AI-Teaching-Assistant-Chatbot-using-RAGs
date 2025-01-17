@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+openai
+scikit-learn
+langchain
+langchain-experimental
+langchain-google-genai
+faiss-cpu
+sentence-transformers
+rank_bm25
